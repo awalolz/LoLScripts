@@ -1,3 +1,11 @@
+--[[
+    DevastatingRiven by Miyasako v0.1
+
+    changelog: 
+	0.1 Initial release
+]]
+
+
 require 'SOW'
 require 'SourceLib'
 require 'VPrediction'
