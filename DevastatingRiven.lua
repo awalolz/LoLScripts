@@ -1,5 +1,5 @@
 --[[
-    DevastatingRiven by Miyasako v0.1
+    DevastatingRiven by Awalolz v0.1
 
     changelog: 
 	0.1 Initial release
